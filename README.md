@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/n44jiwh8earlpwci?svg=true)](https://ci.appveyor.com/project/SvetlanaSnegurova/selenidecardorder)
